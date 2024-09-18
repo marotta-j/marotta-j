@@ -5,7 +5,7 @@
 ## Hi there 👋
 #### My name is Joseph and I am a second-year CS student at Boston University!
 
-- 🔭 I’m currently working on my ![Django social media project!]([github.com](https://github.com/marotta-j/django-social-media))
+- 🔭 I’m currently working on my ![Django social media project!](https://github.com/marotta-j/django-social-media)
 - ⚙️ Interested in `web development`, `databases`, and `machine learning`
 - 🌱 Open to SWE opportunities and internships
 
