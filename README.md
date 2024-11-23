@@ -5,6 +5,7 @@
 ## Hi there 👋
 #### My name is Joseph and I am a second-year CS student at Boston University!
 
+- 🎉 Just finished ![Missed Connections](https://github.com/frankiscuwu/Missed-Connections), a social iOS application made at BostonHacks2024!
 - 🔭 I’m currently working on my ![Django social media project!](https://github.com/marotta-j/django-social-media)
 - ⚙️ Interested in `web development`, `databases`, and `machine learning`
 - 🌱 Open to SWE opportunities and internships
